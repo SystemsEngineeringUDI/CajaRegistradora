@@ -1,3 +1,9 @@
+/*
+@autor:
+ * Jhon velasco
+ * @ frediv0406
+ * Estudiante: Ing.Sistemas UDI
+*/
 #include <iostream>
 #include <conio.h>
 using namespace std;
